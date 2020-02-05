@@ -1,0 +1,9 @@
+#texto
+/Archivos/conexion.txt
+*.meta
+*.class
+Archivos/B/sub 1/dato 4.zzz
+/archivos/b/sub 2/datos
+/archivos/A/sub 1/Estado/*
+!/archivos/A/sub 1/Estado/feliz.html
+
